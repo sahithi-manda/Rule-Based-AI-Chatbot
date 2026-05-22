@@ -43,6 +43,7 @@ This beginner-friendly AI project helps in understanding:
 ## 🛠️ Tech Stack
 
 - Python
+- Tkinter (GUI)
 - VS Code / PyCharm
 - Terminal / Command Prompt
 
@@ -51,12 +52,16 @@ This beginner-friendly AI project helps in understanding:
 ## 📂 Project Structure
 
 ```bash
-Rule-Based-AI-Chatbot/
-│
-├── chatbot.py
-├── README.md
-└── screenshots/
+Decode labs/
+└── Project_1_Chatbot/
+    ├── chatbot.py
+    ├── README.md
+    ├── test_chatbot.py
+    ├── Screenshot .png
+    └── Screenshot 2.png
 ```
+
+See [Project_1_Chatbot/README.md](Project_1_Chatbot/README.md) for full details and screenshots.
 
 ---
 
@@ -91,13 +96,13 @@ Bot: Goodbye! Have a great day.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/rule-based-ai-chatbot.git
+git clone https://github.com/sahithi-manda/Rule-Based-AI-Chatbot.git
 ```
 
 ### Step 2: Navigate to Project Folder
 
 ```bash
-cd rule-based-ai-chatbot
+cd Project_1_Chatbot
 ```
 
 ### Step 3: Run the Program
@@ -129,11 +134,12 @@ Example:
 ![Chatbot Screenshot](screenshots/chatbot-demo.png)
 ```
 
+See [Project_1_Chatbot/README.md](Project_1_Chatbot/README.md) for project screenshots.
+
 ---
 
 ## 🔮 Future Improvements
 
-- Add GUI using Tkinter
 - Integrate NLP features
 - Add voice assistant support
 - Connect with APIs
